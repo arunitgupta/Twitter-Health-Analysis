@@ -5,6 +5,6 @@ It uses Apache Spark for processing which is 100X faster than hadoop, uses Twitt
 
 <b>Domain chosen</b>: Health and diseases 
 
-<b>Visualization</b>: Data is analyzed and visualized by using different visualization like D3js etc.
+<b>Visualization</b>: Data is analyzed and visualized by using different visualization like D3.js etc.
 
 
